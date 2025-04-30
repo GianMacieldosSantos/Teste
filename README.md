@@ -1,2 +1,2 @@
 # Teste, para versionamento
-Teste de Repositório
+Teste de Repositório, criado durante aprendizado
